@@ -4,7 +4,7 @@ A web-based academic hiring management system developed for Prince Mohammad Bin 
 
 ---
 
-## System Roles
+## 👥 System Roles
 
 | Role | Responsibilities |
 |---|---|
@@ -15,7 +15,7 @@ A web-based academic hiring management system developed for Prince Mohammad Bin 
 
 ---
 
-## Core Features
+## ⚙️ Core Features
 
 - **Candidate Management** — Track applicants through each stage of the hiring pipeline
 - **Interview Scheduling** — Committee members schedule and manage interviews with chair approval
@@ -26,7 +26,7 @@ A web-based academic hiring management system developed for Prince Mohammad Bin 
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 | Layer | Technology |
 |---|---|
